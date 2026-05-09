@@ -49,14 +49,17 @@ Instruments:
 - Drums
 - Piano
 - Accordion
+```
+
+---
 
 ## ~/now_playing
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9m8vz70z3vv9uzx6s96jzqybq&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=9m8vz70z3vv9uzx6s96jzqybq&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9m8vz70z3vv9uzx6s96jzqybq&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&profanity=false&bar_color=00ff99&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=9m8vz70z3vv9uzx6s96jzqybq&redirect=true)
+
 </div>
-```
 
 ---
 
