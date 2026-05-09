@@ -10,6 +10,10 @@
 
    "Chamalava" Stubbs
 ```
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Embedded+Systems+Enthusiast;Linux+User+BTW;Electronics+Addict;Building+Local+AI+Systems;Break+things.+Learn.+Build+better." />
+</p>
+<img src="https://komarev.com/ghpvc/?username=Chamalava&label=PROFILE+VIEWS&color=00ff99&style=flat" />
 
 ```console
 ian@github:~$ whoami
@@ -78,6 +82,24 @@ Shell     : bash
 
 ## ~/technologies
 
+<div align="center">
+
+![](https://img.shields.io/badge/OS-Arch_Linux-000000?style=for-the-badge&logo=arch-linux&logoColor=00ff99)
+
+![](https://img.shields.io/badge/Editor-Neovim-000000?style=for-the-badge&logo=neovim&logoColor=00ff99)
+
+![](https://img.shields.io/badge/Shell-bash-000000?style=for-the-badge&logo=gnubash&logoColor=00ff99)
+
+![](https://img.shields.io/badge/Automation-Home_Assistant-000000?style=for-the-badge&logo=homeassistant&logoColor=00ff99)
+
+![](https://img.shields.io/badge/Hardware-ESP32-000000?style=for-the-badge&logo=espressif&logoColor=00ff99)
+
+![](https://img.shields.io/badge/Code-C/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00ff99)
+
+![](https://img.shields.io/badge/Linux-User_BTW-000000?style=for-the-badge&logo=linux&logoColor=00ff99)
+
+</div>
+
 ```txt
 C/C++        Bash          Python
 JavaScript   HTML/CSS      PHP
@@ -99,7 +121,7 @@ JetBrains IDEs
     Experimental operating system style project
 
 [+] conMigo tu aMIGO MIGO
-    personal psychological AI assistant
+    Experimental psychological AI assistant
 
 [+] Invernadero Automatizado V1
     Automated greenhouse controlled by schedules
@@ -108,7 +130,7 @@ JetBrains IDEs
     Greenhouse controlled by humidity sensors
 
 [+] M.A.R.Y
-    Local AI assistant currently in development
+    Local AI assistant (Status: rebuilding.)
 ```
 
 ---
@@ -117,7 +139,9 @@ JetBrains IDEs
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chamalava&show_icons=true&theme=highcontrast&hide_border=true&bg_color=00000000" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chamalava&show_icons=true&theme=highcontrast&hide_border=true&bg_color=00000000&title_color=00ff99&icon_color=00ff99&text_color=ffffff&ring_color=00ff99" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamalava&layout=compact&theme=highcontrast&hide_border=true&bg_color=00000000&title_color=00ff99&text_color=ffffff" />
 
 <img src="https://streak-stats.demolab.com?user=Chamalava&theme=highcontrast&hide_border=true&background=00000000" />
 
