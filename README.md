@@ -139,10 +139,6 @@ JetBrains IDEs
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chamalava&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamalava&layout=compact&theme=tokyonight" />
-
 <img src="https://streak-stats.demolab.com?user=Chamalava&theme=highcontrast&hide_border=true&background=00000000" />
 
 </div>
